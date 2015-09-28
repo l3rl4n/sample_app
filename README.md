@@ -1,1 +1,1 @@
-== This is a Rails sample app
+##This is a Rails sample app
